@@ -1,6 +1,5 @@
 <script lang="ts">
 	import {goto} from "$app/navigation";
-	import {writable} from "svelte/store";
 	import { currentUserId } from "../lib/stores";
 
 
